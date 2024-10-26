@@ -1,0 +1,6 @@
+pandas
+numpy
+pycaret == 3.3.2
+plotly
+scikit-learn
+seaborn
